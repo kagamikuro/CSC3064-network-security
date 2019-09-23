@@ -1,4 +1,4 @@
-# Network Security
+# CSC3064-network-security
 
 Pre-Requisites
 
